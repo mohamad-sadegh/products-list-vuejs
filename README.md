@@ -1,4 +1,4 @@
-# learn-spa
+# Single Product list with Vuejs
 
 ## Project setup
 ```
